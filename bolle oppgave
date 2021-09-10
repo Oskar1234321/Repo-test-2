@@ -1,0 +1,12 @@
+const bolle = 'Sjokoladebolle';
+
+
+if (bolle === 'rosinbolle'){
+    console.log ('Tja betre ann hvetebolle, men ikkje like godt som sjokoladebolle')
+};
+else if ( bolle === 'Hvetebolle'){
+    console.log ('Denne bollen er tørr og ikkje veldig god')
+};
+else (bolle === 'Sjokoladebolle') {
+    console.log ('Dette er den beste bollen av dei tre typane, nam nam')
+};
